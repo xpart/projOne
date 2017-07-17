@@ -11,6 +11,7 @@ public class test1 {
 		driver.get("https://www.facebook.com/");
 		System.out.println("Annie");
 		System.out.println("bay");
+		System.out.println("potato");
 		driver.close();
 	}
 
