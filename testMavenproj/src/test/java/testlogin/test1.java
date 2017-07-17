@@ -9,6 +9,7 @@ public class test1 {
 	public void openApp(){
 		ChromeDriver driver=new ChromeDriver();
 		driver.get("https://www.facebook.com/");
+		System.out.println("Annie");
 		driver.close();
 	}
 
