@@ -7,7 +7,7 @@ public class test2 {
 	public void trilmt1(){
 		
 		System.out.println("syso");
-		System.out.println("poech");
+	
 	}
 
 }
